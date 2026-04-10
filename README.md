@@ -40,6 +40,6 @@ If you encounter technical issues with this code as you complete the course (i.e
 
 # Module 1
 
-````
+```
 snow git execute @advanced_data_engineering_snowflake/branches/main/module-1/hamburg_weather/pipeline/data/load_tasty_bytes.sql -D "env='STAGING'" --database=COURSE_REPO --schema=PUBLIC
 ```
